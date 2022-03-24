@@ -12,6 +12,7 @@ export default function Home() {
       </Head>
 
       <h1>Hello!!</h1>
+        <h1>From NERDS!!!</h1>
 
     </div>
   )
